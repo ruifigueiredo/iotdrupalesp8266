@@ -18,8 +18,8 @@
 
 int RelayPin = 4;    // RELAY ligado ao pin digital 5
 
-const char* ssid     = "SSI NETWORK";
-const char* password = "SSID PASSWORD";
+const char* ssid     = "DRAGAOWIFI";
+const char* password = "FCP5SLBZeRo";
 
 //ip do MQTT Server que está no raspberry
 const char* mqtt_server = "192.168.0.103";
